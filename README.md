@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shridhar Sharma</h1>
 <h3 align="center">A Student at IIIT Bangalore</h3>
 
+<!--
 - 🔭 I’m currently working on **developing a WebGPU Path Tracer**
 
 - 🌱 I’m currently learning **Computer Graphics**
 
 - 👨‍💻 All of my projects are available at [shridhar2602.github.io](shridhar2602.github.io)
+
+-->
 
 - 📫 How to reach me **shridhar2602@gmail.com**
 
